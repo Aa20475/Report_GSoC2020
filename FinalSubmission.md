@@ -48,10 +48,10 @@ The most productive part of the project I'd say. As I got used to the codebase, 
  
 All the code till this point was in only one [PR](https://github.com/synfig/synfig/pull/1485). This got merged as the Basic Implementation for the Skeleton Tool and any other issues in it were added to a [milestone](https://github.com/synfig/synfig/milestone/10).
 
-#### *Coding Period #3 (July 26,2019 - August 19,2019)*
+#### *Coding Period #3 (July 27th,2020 - August 24th,2020)*
 During this period, I worked on fixing minor bugs in the functionalities and some UI enhancements. Fixed some issues in support to Skeleton deformation layer. Updated the tool options for the skeleton tool. Please check out the [milestone](https://github.com/synfig/synfig/milestone/10) to track the exact progress.
 
-#### *Final Work submission Period (August 19,2019 - August 26,2019)*
+#### *Final Work submission Period (August 24th,2020 - August 31,2020)*
 Closed some critical issues and started working on Tutorial and Documentation for the tool.
 
 ## My Thoughts about this project:
