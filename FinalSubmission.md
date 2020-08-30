@@ -22,9 +22,9 @@ It has a wide variety of features in which Skeleton-based animation is one. It i
 
 You can find the tutorials and documentation for the tool in the links below.
 
-[Tutorial]()
+[Tutorial](https://youtu.be/8qawMmSN55o)
 
-[Documentation]()
+[Documentation](https://synfig.readthedocs.io/en/latest/tools/skeleton.html)
 
 **If you are interested to know how we worked on the project... read on!**
 
